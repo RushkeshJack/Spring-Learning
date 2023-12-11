@@ -1,4 +1,4 @@
-package com.java.Multithreading;
+package com.java.Multithreading.JoinMethod;
 
 import java.util.Iterator;
 
